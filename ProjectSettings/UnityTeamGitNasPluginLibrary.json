@@ -1,0 +1,99 @@
+{
+    "Version": 1,
+    "Plugins": [
+        {
+            "PluginId": "48f94be37e73b57e14de4c3951827baf",
+            "Name": "PackageTest",
+            "InstallKind": "UnityPackage",
+            "SourceFolderName": "PackageTest",
+            "PackageFileName": "红外测距SDK.unitypackage",
+            "RootAssetPath": "",
+            "InstalledAtUtc": "2026-08-24T07:42:07.1338736Z",
+            "Assets": [
+                {
+                    "AssetPath": "Assets/Script",
+                    "ExistedBefore": false,
+                    "IsDirectory": true,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "",
+                    "InstalledMetaHash": "ff3ae6d68445a6783891903681670ee23423b39aeb4e9151752806eb9e256c97"
+                },
+                {
+                    "AssetPath": "Assets/Scenes/示范以及说明.unity",
+                    "ExistedBefore": false,
+                    "IsDirectory": false,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "74abedfe4d2aab529a5bc7055fb4e7dcda47f659c2ff89a12be60a5cee17210d",
+                    "InstalledMetaHash": "aceab14f038dbd3a1778159772cd9e89d7d8188f9158f06c204a8912438d8c96"
+                },
+                {
+                    "AssetPath": "Assets/Script/DataManager.cs",
+                    "ExistedBefore": false,
+                    "IsDirectory": false,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "f28af0579499ab5aa33d2b9d3895da255fe608856662fb16f15c3bd914f313a6",
+                    "InstalledMetaHash": "d63590dfa624f7d56cdc41fe155b125e568033b915a7387bc95ca8338ef0253d"
+                },
+                {
+                    "AssetPath": "Assets/Script/DataProcessor.cs",
+                    "ExistedBefore": false,
+                    "IsDirectory": false,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "a6788d0a66703d7bef3ca256a02407bf1ba6eec95268c9a3b64f0d9e5ddec1df",
+                    "InstalledMetaHash": "e1bc0ec3af4890af007928a0e6e96722a28a04b2437c46d4c61a9e310d862b04"
+                },
+                {
+                    "AssetPath": "Assets/Script/SerialConnector.cs",
+                    "ExistedBefore": false,
+                    "IsDirectory": false,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "e3690c064a9b7221313f669eccaa745e2742335de901aff579392de479b40e40",
+                    "InstalledMetaHash": "8bc2d7a6067b4d6f7e030155fc6ce481d9a297562a8f53dbe991758f9735b730"
+                }
+            ]
+        },
+        {
+            "PluginId": "6ee87ff0631ccba5568d7a4e37f4f6f2",
+            "Name": "Winmod",
+            "InstallKind": "CodeFolder",
+            "SourceFolderName": "Winmod",
+            "PackageFileName": "",
+            "RootAssetPath": "Assets/Winmod",
+            "InstalledAtUtc": "2026-08-24T07:42:10.2550118Z",
+            "Assets": [
+                {
+                    "AssetPath": "Assets/Winmod",
+                    "ExistedBefore": false,
+                    "IsDirectory": true,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "",
+                    "InstalledMetaHash": ""
+                },
+                {
+                    "AssetPath": "Assets/Winmod/WinMod.cs",
+                    "ExistedBefore": false,
+                    "IsDirectory": false,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "cd961aa9d48945983656ac30f2225bfbbe55a857464623b9386bf5b93da8d60f",
+                    "InstalledMetaHash": ""
+                },
+                {
+                    "AssetPath": "Assets/Winmod/新建 Text Document.txt",
+                    "ExistedBefore": false,
+                    "IsDirectory": false,
+                    "OriginalMetaBase64": "",
+                    "InstalledContentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                    "InstalledMetaHash": ""
+                }
+            ]
+        }
+    ],
+    "PendingPackage": {
+        "PluginId": "",
+        "Name": "",
+        "SourceFolderName": "",
+        "PackageFileName": "",
+        "StagedPackagePath": "",
+        "Assets": []
+    }
+}
